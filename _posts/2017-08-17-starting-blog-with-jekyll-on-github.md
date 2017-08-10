@@ -2,6 +2,7 @@
 layout: post
 title: "Start blogging with jekyll on github"
 date: 2017-08-17
+tags: jekyll github blog
 ---
 
 GitHub docs say that in order to preview my jekyll blog locally by [setting up github pages locally with jekyll]( https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/#requirements):
