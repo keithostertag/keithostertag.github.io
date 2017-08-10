@@ -3,7 +3,8 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family: 'Abril Fatface', cursive;
+    font-family: 'PT Sans', sans-serif;
+    /*font-family: 'Abril Fatface', cursive;*/
     /*font-family:'Helvetica', 'Arial', 'Sans-Serif';*/
     padding: 0px;
     list-style: none;
