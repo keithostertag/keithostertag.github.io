@@ -8,3 +8,4 @@ Here are a few links that I found useful to start my blog on my github page:
 * [Main jekyll docs page](https://jekyllrb.com/docs/home/)
 * [jekyll docs page on posts](https://jekyllrb.com/docs/posts/)
 * [jekyll Front Matter intro](https://jekyllrb.com/docs/frontmatter/)
+* [Creating and Hosting a Personal Site on GitHub](http://jmcglone.com/guides/github-pages/)
