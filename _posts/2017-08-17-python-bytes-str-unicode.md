@@ -17,7 +17,8 @@ The following is taken from: "Effective Python: 59 Specific Ways to Write Better
 
 > In Python 3, you'll need one method that takes a str or bytes and always returns a str:
 
-```
+<pre class = "highlight">
+<code>
 # Example 1 for python3
 def to_bytes(bytes_or_str):
 	if isinstance(bytes_or_str, str):
@@ -25,7 +26,9 @@ def to_bytes(bytes_or_str):
 	else:
 		value = bytes_or_str
 	return value  # Instance of bytes
-  ```
+  </code>
+  </pre>
+
 
   > You'll need another method that takes a str or bytes and always returns a bytes:
 
