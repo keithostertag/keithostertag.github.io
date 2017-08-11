@@ -11,7 +11,7 @@ The following is taken from: "Effective Python: 59 Specific Ways to Write Better
 
 > In Python 2, there are two types that represent sequences of characters: str and unicode. In contrast to Python 3, instances of str contain raw 8-bit values. Instances of unicode contain Unicode characters.
 
-***
+... continuing...
 
 > You'll often need two helper functions to convert between these two cases and to ensure that the type of input values matches your code's expectations.
 

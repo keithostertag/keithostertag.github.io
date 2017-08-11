@@ -48,3 +48,8 @@ ul.posts li {
 .highlight {
   background-color: #f7f7f7
 }
+
+blockquote  {
+    padding-left: 10px;
+    border-left: 1px solid rgba(0,0,0,.5);
+}
