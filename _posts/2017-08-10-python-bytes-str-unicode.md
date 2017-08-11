@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Python- bytes, str, and unicode"
-date: 2017-08-17
+date: 2017-08-10
 tags: python str unicode bytes
 ---
 
