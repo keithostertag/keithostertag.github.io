@@ -1,4 +1,8 @@
 theme: jekyll-theme-leap-day
 name: Keith Ostertag
 markdown: kramdown
+kramdown:
+  input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
+  hard_wrap: false
+highlighter: rouge
 permalink: /blog/:year/:month/:day/:title
