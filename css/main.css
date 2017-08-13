@@ -101,4 +101,10 @@ blockquote  {
             display: inline;
             font-size: 1.2rem;
         }
+
+        body {
+            margin: 30px auto;
+            width: 90%;
+
+        }
 }
