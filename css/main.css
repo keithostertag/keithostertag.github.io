@@ -2,16 +2,33 @@ body {
     margin: 60px auto;
     width: 70%;
     font-family: 'PT Sans', sans-serif;
+    color: #202020;
+    display: flex;
+  flex-direction: column;
+  height: 100%; /* Avoid the IE 10-11 `min-height` bug. */
 }
-nav ul, footer ul {
-    font-family: 'PT Sans', sans-serif;
-    /*font-family: 'Abril Fatface', cursive;*/
-    /*font-family:'Helvetica', 'Arial', 'Sans-Serif';*/
+
+/*this container class is for the content*/
+.container  {
+  flex: 1 0 auto; /* Prevent Chrome, Opera, and Safari from letting these items shrink to smaller than their content's default minimum size. */
+  }
+
+  header, footer  {
+    flex-shrink: 0; /* Prevent Chrome, Opera, and Safari from letting these items shrink to smaller than their content's default minimum size. */
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+nav ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
-nav ul li, footer ul li {
+nav ul li{
     display: inline;
     margin-right: 20px;
 }
@@ -23,9 +40,8 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
-    /*font-family:'Helvetica', 'Arial', 'Sans-Serif';*/
-    /*font-family: 'Abril Fatface', cursive;*/
+    font-size: 2.5em;
+
 }
 p {
     font-size: 1.5em;
@@ -34,6 +50,8 @@ p {
 }
 footer {
     border-top: 1px solid #d5d5d5;
+    margin-top: 2rem;
+    padding-top: 1rem;
     font-size: .8em;
 }
 
@@ -46,15 +64,21 @@ ul.posts li {
     list-style: none;
 }
 
+/*used for code blocks*/
 .highlight {
   background-color: #f7f7f7
 }
 
 blockquote  {
     padding-left: 10px;
-    border-left: 1px solid rgba(0,0,0,.5);
+    border-left: 1px solid rgba(0,0,0,.7);
 }
 
 .blog_date  {
   font-size: .7em;
+}
+
+/*used for github, linkedin, and email icons*/
+.icon  {
+  height: 2em;
 }
