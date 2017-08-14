@@ -4,8 +4,8 @@ body {
     font-family: 'PT Sans', sans-serif;
     color: #202020;
     display: flex;
-  flex-direction: column;
-  height: 100%; /* Avoid the IE 10-11 `min-height` bug. */
+    flex-direction: column;
+    height: 100%; /* Avoid the IE 10-11 `min-height` bug. */
 }
 
 /*this container class is for the content*/
@@ -28,36 +28,41 @@ nav ul {
     list-style: none;
     font-weight: bold;
 }
-nav ul li{
+
+nav ul li {
     display: inline;
-    /*margin-right: 2rem;*/
+    margin-right: 1rem;
 }
+
 a {
     text-decoration: none;
     color: #428bca;
 }
+
 a:hover {
     text-decoration: underline;
 }
-h1 {
-    font-size: 2.5em;
 
+h1 {
+    font-size: 2.5rem;
 }
+
 p {
-    font-size: 1.5em;
-    line-height: 1.4em;
+    font-size: 1.5rem;
+    line-height: 1.4rem;
     color: #333;
 }
+
 footer {
     border-top: 1px solid #d5d5d5;
     margin-top: 2rem;
     padding-top: 1rem;
-    font-size: .8em;
+    font-size: .8rem;
 }
 
 ul.posts {
     margin: 20px auto 40px;
-    font-size: 1.5em;
+    font-size: 1.5rem;
 }
 
 ul.posts li {
@@ -66,7 +71,7 @@ ul.posts li {
 
 /*used for code blocks*/
 .highlight {
-  background-color: #f7f7f7
+    background-color: #f7f7f7
 }
 
 blockquote  {
@@ -75,36 +80,38 @@ blockquote  {
 }
 
 .blog_date  {
-  font-size: .7em;
+  font-size: .7rem;
 }
 
 /*used for github, linkedin, and email icons*/
 .icon  {
-  height: 2em;
+    height: 2rem;
 }
 
 /************   Media  selectors  ******************/
 
-/*  change design to one column when using small devices*/
+/*  change some font sizes when using small devices*/
 @media only screen and (max-width: 660px)
-      {
+{
+        .about  {
+          display: none;
+        }
 
         .icon  {
-          height: 3.5em;
+          height: 1.4rem;
+          /*margin-right: 1rem;*/
         }
 
         footer {
-
-            font-size: 1.8em;
+            font-size: 0.8rem;
         }
-        nav ul li{
+        nav ul li {
             display: inline;
-            font-size: 1.2rem;
+            font-size: 1.4rem;
         }
 
         body {
             margin: 30px auto;
-            width: 90%;
-
+            width: 80%;
         }
 }
