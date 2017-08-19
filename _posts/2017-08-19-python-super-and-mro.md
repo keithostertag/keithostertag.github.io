@@ -9,3 +9,5 @@ tags: python mro super
 
  * [Python's Super and MRO](https://bytes.vokal.io/20151207-python-super-mro/)
  * [Why does \__mro\__ not show up in dir(MyClass)?](https://stackoverflow.com/questions/16663514/why-does-mro-not-show-up-in-dirmyclass#16663643)
+
+Also, the answer and comments to this Treehouse video challenge clarifies how super and the mro work: [Why do attributes classes also have super().__init__() funcs?](https://teamtreehouse.com/community/why-do-attributes-classes-also-have-superinit-funcs)
