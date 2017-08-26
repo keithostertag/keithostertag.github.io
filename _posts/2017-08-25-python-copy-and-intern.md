@@ -86,3 +86,4 @@ Here are a few links that helped me understand this better:
 * [Subclassing Built-Ins, why are we using copy.copy ?](https://teamtreehouse.com/community/subclassing-builtins-why-are-we-using-copycopy)
 * [python when to use copy.copy](https://stackoverflow.com/questions/7046971/python-when-to-use-copy-copy)
 * [What does python sys.intern do, and when should it be used?](https://stackoverflow.com/questions/1136826/what-does-python-sys-intern-do-and-when-should-it-be-used)
+* For a different example (creating a 10x10 matrix) see this: [Beware of object References!](https://www.reddit.com/r/pythontips/comments/4qgg95/beware_of_object_references/)
