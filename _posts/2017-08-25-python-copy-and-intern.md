@@ -81,8 +81,13 @@ Now, each item in the other_stuff array has a unique memory address. So we now c
 [['a', 'b', 'c'], ['a', 'z', 'c'], ['a', 'b', 'c'], ['a', 'b', 'c'], ['a', 'b', 'c']]
 ```
 
+Why use _copy.copy_ ?
+> Lists and strings (a special list, actually) have the slice notation, but other objects may or may not have a copying function build in. That's is where copy is useful. The first _copy_ is the library module copy, the second _copy_ is the _function_ that performs the actual copying... (if you use) the import statment _from copy import copy_ then you could use _copy(object)_ directly. However, by using _import copy_ you get the _module_ and to reference the function you need to use the form _model.function_. (Chris Freeman)
+
+
 Here are a few links that helped me understand this better:
 
+* [copy.copy(value)](https://teamtreehouse.com/community/copycopyvalue)
 * [Subclassing Built-Ins, why are we using copy.copy ?](https://teamtreehouse.com/community/subclassing-builtins-why-are-we-using-copycopy)
 * [python when to use copy.copy](https://stackoverflow.com/questions/7046971/python-when-to-use-copy-copy)
 * [What does python sys.intern do, and when should it be used?](https://stackoverflow.com/questions/1136826/what-does-python-sys-intern-do-and-when-should-it-be-used)
