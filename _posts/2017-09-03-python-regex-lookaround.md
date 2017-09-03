@@ -48,3 +48,4 @@ Lookaround is a regex feature that I had not looked at before. I'm still studyin
 * [regular expressions 101](https://regex101.com/)
 * [Regular Expressions Tutorial](http://www.regular-expressions.info/tutorial.html)
 * [Lookahead and Lookbehind Zero-Length Assertions](http://www.regular-expressions.info/lookaround.html)
+* [Learn to Program 15: Regular Expression Tutorial](http://www.newthinktank.com/2016/08/learn-program-15/)
