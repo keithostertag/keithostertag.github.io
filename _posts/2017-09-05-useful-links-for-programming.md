@@ -20,5 +20,8 @@ I'll occasionally add to this page, but won't attempt to organize them. These ex
 * [Linux diff command](https://www.computerhope.com/unix/udiff.htm)
 * [XHTML Character Entity Reference](http://www.digitalmediaminute.com/reference/entity/index.php)
 * [Nameless Hexadecimal Color Codes for HTML](http://december.com/html/spec/colorhues.html)
+<<<<<<< HEAD
 * [An Introduction to Python Lists](An Introduction to Python Lists)
 * [Python unittest — Unit testing framework](https://docs.python.org/3/library/unittest.html)
+=======
+>>>>>>> c09201e0ee869358c2be97aa7572f1a1f18025f2
