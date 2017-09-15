@@ -22,3 +22,4 @@ I'll occasionally add to this page, but won't attempt to organize them. These ex
 * [Nameless Hexadecimal Color Codes for HTML](http://december.com/html/spec/colorhues.html)
 * [Python Sorting Mini-HOW TO](https://wiki.python.org/moin/HowTo/Sorting)
 * [Python unittest — Unit testing framework](https://docs.python.org/3/library/unittest.html#unittest.TestCase.setUp)
+* [What every JavaScript developer should know about Unicode](https://dmitripavlutin.com/what-every-javascript-developer-should-know-about-unicode/#3unicodeinjavascript)
