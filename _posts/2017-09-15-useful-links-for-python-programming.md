@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Useful links for Python programming"
-date: 2017-09-15
+date: 2017-09-18
 tags: resources python
 ---
 
@@ -18,3 +18,4 @@ I'll occasionally add to this page, but won't attempt to organize them. These ex
 * [Python Cookbook](http://chimera.labs.oreilly.com/books/1230000000393/index.html)
 * [Python 3 Module of the Week](https://pymotw.com/3/)
 * [Test-Driven Web Development with Python](http://www.obeythetestinggoat.com/pages/book.html)
+* [Django customizing error views](https://docs.djangoproject.com/en/1.8/topics/http/views/#customizing-error-views)
