@@ -19,3 +19,9 @@ I'll occasionally add to this page, but won't attempt to organize them. These ex
 * [Python 3 Module of the Week](https://pymotw.com/3/)
 * [Test-Driven Web Development with Python](http://www.obeythetestinggoat.com/pages/book.html)
 * [Django customizing error views](https://docs.djangoproject.com/en/1.8/topics/http/views/#customizing-error-views)
+* [Django URL dispatcher](https://docs.djangoproject.com/en/1.11/topics/http/urls/)
+* [Django doc- Making queries](https://docs.djangoproject.com/en/1.11/topics/db/queries/#copying-model-instances)
+* [Python - Built-in template tags and filters](https://docs.djangoproject.com/en/1.11/ref/templates/builtins/) includes date formats :-)
+* [Django doc - Unicode data](https://docs.djangoproject.com/en/1.8/ref/unicode/) and utilities
+* [Python class method vs static method 2017 ](http://www.bogotobogo.com/python/python_differences_between_static_method_and_class_method_instance_method.php)tutorial
+* [django.conf.urls utility functions](https://docs.djangoproject.com/en/1.11/ref/urls/#django.conf.urls.url)
