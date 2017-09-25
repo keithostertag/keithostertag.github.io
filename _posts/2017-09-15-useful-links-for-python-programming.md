@@ -25,3 +25,10 @@ I'll occasionally add to this page, but won't attempt to organize them. These ex
 * [Django doc - Unicode data](https://docs.djangoproject.com/en/1.8/ref/unicode/) and utilities
 * [Python class method vs static method 2017 ](http://www.bogotobogo.com/python/python_differences_between_static_method_and_class_method_instance_method.php)tutorial
 * [django.conf.urls utility functions](https://docs.djangoproject.com/en/1.11/ref/urls/#django.conf.urls.url)
+* [Syntax highlighting with Django and Markdown](https://martinfitzpatrick.name/article/syntax-highlighting-with-django-and-markdown/)
+* [Pygments Python syntax highlighter](http://pygments.org/docs/quickstart/)
+* [Codepen Resize, Drag, Snap](https://codepen.io/zz85/pen/gbOoVP)
+* [Codepen Jquery Resizable Splitter Panels ](https://codepen.io/rstrahl/pen/eJZQej?q=resize+&limit=all&type=type-pens)
+* [Codepen Splitter Panes](https://codepen.io/osublake/pen/WRQjJx?q=resize+&limit=all&type=type-pens)
+* [Codepen Absolute Centering](https://codepen.io/shshaw/pen/gEiDt?q=resize+&limit=all&type=type-pens)
+* [Django Debug Toolbar](https://django-debug-toolbar.readthedocs.io/en/stable/installation.html)
