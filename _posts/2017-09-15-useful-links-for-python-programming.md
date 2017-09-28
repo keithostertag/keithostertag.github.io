@@ -26,3 +26,4 @@ I'll occasionally add to this page, but won't attempt to organize them. These ex
 * [Codepen Absolute Centering](https://codepen.io/shshaw/pen/gEiDt?q=resize+&limit=all&type=type-pens)
 * [Short (and useful) python snippets](https://stackoverflow.com/questions/691946/short-and-useful-python-snippets#694180)
 * [Teach Yourself Python](http://www.teachyourselfpython.com/index.php)
+* [itertools — Functions creating iterators for efficient looping](https://docs.python.org/3/library/itertools.html)

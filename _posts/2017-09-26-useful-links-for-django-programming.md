@@ -29,3 +29,8 @@ I'll occasionally add to this page, but won't attempt to organize them. These ex
 * [Syntax highlighting with Django and Markdown](https://martinfitzpatrick.name/article/syntax-highlighting-with-django-and-markdown/)
 * [Pygments Python syntax highlighter](http://pygments.org/docs/quickstart/)
 * [The purpose of cleaned_data and response after form submit](https://teamtreehouse.com/community/the-purpose-of-cleaneddata-and-response-after-form-submit)
+* [Form and field validation](https://docs.djangoproject.com/en/1.11/ref/forms/validation/)
+* [Validators](https://docs.djangoproject.com/en/1.11/ref/validators/)
+* [Creating forms from models](https://docs.djangoproject.com/en/1.11/topics/forms/modelforms/)
+* [Formsets](https://docs.djangoproject.com/en/1.11/topics/forms/formsets/)
+* [Getting breadcrumbs in your template](https://www.djangorocks.com/snippets/getting-breadcrumbs-in-your-template.html)
