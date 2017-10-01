@@ -27,3 +27,4 @@ I'll occasionally add to this page, but won't attempt to organize them. These ex
 * [Short (and useful) python snippets](https://stackoverflow.com/questions/691946/short-and-useful-python-snippets#694180)
 * [Teach Yourself Python](http://www.teachyourselfpython.com/index.php)
 * [itertools — Functions creating iterators for efficient looping](https://docs.python.org/3/library/itertools.html)
+* [Python Functions - map, filter, and reduce](http://www.bogotobogo.com/python/python_fncs_map_filter_reduce.php)
