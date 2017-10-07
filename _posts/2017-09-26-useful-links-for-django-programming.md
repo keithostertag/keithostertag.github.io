@@ -14,6 +14,7 @@ I'll occasionally add to this page, but won't attempt to organize them. These ex
 * [Model Meta options](https://docs.djangoproject.com/en/1.11/ref/models/options/)
 * [QuerySet API reference](https://docs.djangoproject.com/en/1.11/ref/models/querysets/)
 * [Managing files](https://docs.djangoproject.com/en/1.11/topics/files/)
+* [Models](https://docs.djangoproject.com/en/1.11/topics/db/models/)
 * [Model field reference](https://docs.djangoproject.com/en/1.11/ref/models/fields/)
 * [Cross Site Request Forgery protection](https://docs.djangoproject.com/en/1.11/ref/csrf/)
 * [Managing static files (e.g. images, JavaScript, CSS)](https://docs.djangoproject.com/en/1.11/howto/static-files/)
@@ -27,7 +28,6 @@ I'll occasionally add to this page, but won't attempt to organize them. These ex
 * [Django doc - Unicode data](https://docs.djangoproject.com/en/1.8/ref/unicode/) and utilities
 * [django.conf.urls utility functions](https://docs.djangoproject.com/en/1.11/ref/urls/#django.conf.urls.url)
 * [Syntax highlighting with Django and Markdown](https://martinfitzpatrick.name/article/syntax-highlighting-with-django-and-markdown/)
-* [Pygments Python syntax highlighter](http://pygments.org/docs/quickstart/)
 * [The purpose of cleaned_data and response after form submit](https://teamtreehouse.com/community/the-purpose-of-cleaneddata-and-response-after-form-submit)
 * [Form and field validation](https://docs.djangoproject.com/en/1.11/ref/forms/validation/)
 * [Validators](https://docs.djangoproject.com/en/1.11/ref/validators/)

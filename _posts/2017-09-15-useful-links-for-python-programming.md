@@ -29,3 +29,5 @@ I'll occasionally add to this page, but won't attempt to organize them. These ex
 * [itertools — Functions creating iterators for efficient looping](https://docs.python.org/3/library/itertools.html)
 * [Python Functions - map, filter, and reduce](http://www.bogotobogo.com/python/python_fncs_map_filter_reduce.php)
 * [Interesting Treehouse challenge using recursion in functional programming](https://teamtreehouse.com/library/functional-python/the-lambda-lambada/recursion) and [some discussion about the solution](https://teamtreehouse.com/community/functional-python-recursion)
+* [Pygments Python syntax highlighter](http://pygments.org/docs/quickstart/)
+* [How to use highlight.js](https://highlightjs.org/usage/)
