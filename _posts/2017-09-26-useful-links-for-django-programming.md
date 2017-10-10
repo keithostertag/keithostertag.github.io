@@ -35,3 +35,4 @@ I'll occasionally add to this page, but won't attempt to organize them. These ex
 * [Formsets](https://docs.djangoproject.com/en/1.11/topics/forms/formsets/)
 * [Getting breadcrumbs in your template](https://www.djangorocks.com/snippets/getting-breadcrumbs-in-your-template.html)
 * [Providing initial data for models](https://docs.djangoproject.com/en/1.11/howto/initial-data/)
+* [Classy Class-Based Views](https://ccbv.co.uk/)
