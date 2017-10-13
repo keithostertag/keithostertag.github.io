@@ -21,3 +21,6 @@ I'll occasionally add to this page, but won't attempt to organize them. These ex
 * [Nameless Hexadecimal Color Codes for HTML](http://december.com/html/spec/colorhues.html)
  framework](https://docs.python.org/3/library/unittest.html#unittest.TestCase.setUp)
 * [What every JavaScript developer should know about Unicode](https://dmitripavlutin.com/what-every-javascript-developer-should-know-about-unicode/#3unicodeinjavascript)
+* [Introducing JSON](http://www.json.org/)
+* [Git Branching - Branches in a Nutshell](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
+* [Postman - share, test, document & monitor APIs.](https://www.getpostman.com/)
