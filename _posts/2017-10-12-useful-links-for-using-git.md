@@ -35,7 +35,8 @@ Margeaux Spring
 [9:29 AM] diff is `git reset --hard` functions on the complete work tree, the `git checkout filename` is just for that file(s) updating the work tree and leaving already staged files alone
 
 Mark Biek [9:29 AM]
-You can also do `git reset --soft` which will undo the commit but put the changes back into your working copy.```  
+You can also do `git reset --soft` which will undo the commit but put the changes back into your working copy.
+```  
 
 ```
 from Leigh Prince:
