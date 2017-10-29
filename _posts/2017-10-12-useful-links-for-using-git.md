@@ -45,4 +45,5 @@ from Leigh Prince:
 
 Calls git, tells it we’re going to push, tells it which road to take, then tells it what payload to handle
 
-Your remote, like your branches, can be named whatever but ‘origin’ is what people usually go with ```
+Your remote, like your branches, can be named whatever but ‘origin’ is what people usually go with
+```  
