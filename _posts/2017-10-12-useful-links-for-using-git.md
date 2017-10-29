@@ -39,11 +39,13 @@ You can also do `git reset --soft` which will undo the commit but put the change
 
 ```
 from Leigh Prince:
-‘Origin’ and ‘master’ refer to two different things here. ‘Origin’ is the most commonly-used-name for remotes and ‘master’ is the default name for branches. Think of a remote as a bridge between your GitHub repo and your local repo. So…
+
+_Origin_ and _master_ refer to two different things here. *Origin* is the most commonly-used-name for remotes and _master_ is the default name for branches. Think of a remote as a bridge between your GitHub repo and your local repo. So…
 
 `git push origin master`
 
 Calls git, tells it we’re going to push, tells it which road to take, then tells it what payload to handle
 
-Your remote, like your branches, can be named whatever but ‘origin’ is what people usually go with
+Your remote, like your branches, can be named whatever but _origin_ is what people usually go with  
+
 ```  
