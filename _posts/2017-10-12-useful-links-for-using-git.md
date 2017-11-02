@@ -17,6 +17,7 @@ I'll occasionally add to this page, but won't attempt to organize them. These ex
 * [Git-it (Original, retired)](https://github.com/jlord/git-it)  
 * [How to revert Git repository to a previous commit?](https://stackoverflow.com/questions/4114095/how-to-revert-git-repository-to-a-previous-commit)
 * [How do I delete a Git branch both locally and remotely?](https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-both-locally-and-remotely)
+* [Git Branching - Basic Branching and Merging](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
 
 ```
 From a discussion on our CodeLouisville git channel:  
