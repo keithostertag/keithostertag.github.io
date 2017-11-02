@@ -5,7 +5,7 @@ date: 2017-10-12
 tags: resources git
 ---
 
-This page is just another way for me to collect some links that I have briefly visited and have found useful for learning GIT. Of course I can always run another search, but some of these links I found through recommendations or serendipity.  
+This page is just another way for me to collect notes and some links that I have briefly visited and have found useful for learning GIT. Of course I can always run another search, but some of these links I found through recommendations or serendipity.  
 
 I'll occasionally add to this page, but won't attempt to organize them. These exist as prompts for later review.
 
@@ -15,6 +15,8 @@ I'll occasionally add to this page, but won't attempt to organize them. These ex
 * [5 good practices I follow when I code using Git](https://tech.olx.com/5-good-practices-i-follow-when-i-code-using-git-71120b57c0f5)
 * [GIT Commands Tutorial](https://www.siteground.com/tutorials/git/commands/)
 * [Git-it (Original, retired)](https://github.com/jlord/git-it)  
+* [How to revert Git repository to a previous commit?](https://stackoverflow.com/questions/4114095/how-to-revert-git-repository-to-a-previous-commit)
+* [How do I delete a Git branch both locally and remotely?](https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-both-locally-and-remotely)
 
 ```
 From a discussion on our CodeLouisville git channel:  
@@ -60,3 +62,4 @@ Your remote, like your branches, can be named whatever but _origin_ is what
 people usually go with  
 
 ```  
+> if you make changes, and don’t either commit or stash those changes, they go with you to a branch if you check out a different branch.
