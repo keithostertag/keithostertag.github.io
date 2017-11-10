@@ -31,3 +31,4 @@ I'll occasionally add to this page, but won't attempt to organize them. These ex
 * [Interesting Treehouse challenge using recursion in functional programming](https://teamtreehouse.com/library/functional-python/the-lambda-lambada/recursion) and [some discussion about the solution](https://teamtreehouse.com/community/functional-python-recursion)
 * [Pygments Python syntax highlighter](http://pygments.org/docs/quickstart/)
 * [How to use highlight.js](https://highlightjs.org/usage/)
+* [DANGEROUS PICKLES — MALICIOUS PYTHON SERIALIZATION](https://intoli.com/blog/dangerous-pickles/)
