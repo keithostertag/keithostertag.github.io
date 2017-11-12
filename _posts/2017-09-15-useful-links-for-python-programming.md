@@ -13,7 +13,7 @@ I'll occasionally add to this page, but won't attempt to organize them. These ex
 * [Python Sorting Mini-HOW TO](https://wiki.python.org/moin/HowTo/Sorting)
 * [Python unittest — Unit testing framework](https://docs.python.org/3/library/unittest.html#unittest.TestCase.setUp)
 * [SQLite Python tutorial](http://zetcode.com/db/sqlitepythontutorial/) for Python version 2.7
-* [Python Package Index (PyPI)](https://pypi.org/)
+* [Python Package Index (PyPI)](https:/??/pypi.org/)
 * [UsefulModules](https://wiki.python.org/moin/UsefulModules#Useful_Modules.2C_Packages_and_Libraries)
 * [Python Cookbook](http://chimera.labs.oreilly.com/books/1230000000393/index.html)
 * [Python 3 Module of the Week](https://pymotw.com/3/)
@@ -32,3 +32,4 @@ I'll occasionally add to this page, but won't attempt to organize them. These ex
 * [Pygments Python syntax highlighter](http://pygments.org/docs/quickstart/)
 * [How to use highlight.js](https://highlightjs.org/usage/)
 * [DANGEROUS PICKLES — MALICIOUS PYTHON SERIALIZATION](https://intoli.com/blog/dangerous-pickles/)
+* [Making a special string with \__str__](https://ironboundsoftware.com/blog/2017/10/02/making-a-special-string/)
