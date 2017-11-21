@@ -12,3 +12,4 @@ This page is just another way for me to collect some links that I have briefly v
 I'll occasionally add to this page, but won't attempt to organize them. These exist as prompts for later review.
 
 * [Processes vs threads in Java](https://stackoverflow.com/questions/25342089/processes-vs-threads-in-java)
+* [Processes and Threads Oracle Java tutorial](https://docs.oracle.com/javase/tutorial/essential/concurrency/procthread.html)

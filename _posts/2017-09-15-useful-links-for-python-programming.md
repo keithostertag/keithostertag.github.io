@@ -33,3 +33,7 @@ I'll occasionally add to this page, but won't attempt to organize them. These ex
 * [How to use highlight.js](https://highlightjs.org/usage/)
 * [DANGEROUS PICKLES — MALICIOUS PYTHON SERIALIZATION](https://intoli.com/blog/dangerous-pickles/)
 * [Making a special string with \__str__](https://ironboundsoftware.com/blog/2017/10/02/making-a-special-string/)
+* [https://www.utest.com/courses/participation-submitting-bug-reports](https://code.tutsplus.com/tutorials/how-to-work-with-json-data-using-python--cms-25758)
+* [lxml - XML and HTML with Python](http://lxml.de/index.html)
+* [Python XML processing with lxml](http://infohost.nmt.edu/tcc/help/pubs/pylxml/web/index.html)
+* [HOWTO Fetch Internet Resources Using The urllib Package](https://docs.python.org/3.5/howto/urllib2.html)
