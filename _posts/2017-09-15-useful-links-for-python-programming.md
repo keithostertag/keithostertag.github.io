@@ -37,3 +37,6 @@ I'll occasionally add to this page, but won't attempt to organize them. These ex
 * [lxml - XML and HTML with Python](http://lxml.de/index.html)
 * [Python XML processing with lxml](http://infohost.nmt.edu/tcc/help/pubs/pylxml/web/index.html)
 * [HOWTO Fetch Internet Resources Using The urllib Package](https://docs.python.org/3.5/howto/urllib2.html)
+* [What are “class methods” and “instance methods”, in Python?](https://softwareengineering.stackexchange.com/questions/306092/what-are-class-methods-and-instance-methods-in-python)
+* [What is the difference between @staticmethod and @classmethod in Python?](https://stackoverflow.com/questions/136097/what-is-the-difference-between-staticmethod-and-classmethod-in-python)
+* [VISUALIZE Python, Java, JavaScript, TypeScript, Ruby, C, and C++](http://pythontutor.com/)
