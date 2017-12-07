@@ -25,3 +25,4 @@ I'll occasionally add to this page, but won't attempt to organize them. These ex
 * [Git Branching - Branches in a Nutshell](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell)
 * [Postman - share, test, document & monitor APIs.](https://www.getpostman.com/)
 * [VISUALIZE Python, Java, JavaScript, TypeScript, Ruby, C, and C++](http://pythontutor.com/)
+* [Choosing between .bashrc, .profile, .bash_profile, etc](https://superuser.com/questions/789448/choosing-between-bashrc-profile-bash-profile-etc)

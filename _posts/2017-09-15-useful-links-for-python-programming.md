@@ -40,3 +40,4 @@ I'll occasionally add to this page, but won't attempt to organize them. These ex
 * [What are “class methods” and “instance methods”, in Python?](https://softwareengineering.stackexchange.com/questions/306092/what-are-class-methods-and-instance-methods-in-python)
 * [What is the difference between @staticmethod and @classmethod in Python?](https://stackoverflow.com/questions/136097/what-is-the-difference-between-staticmethod-and-classmethod-in-python)
 * [VISUALIZE Python, Java, JavaScript, TypeScript, Ruby, C, and C++](http://pythontutor.com/)
+* [Pragmatic Unicode](https://nedbatchelder.com/text/unipain.html)
