@@ -41,3 +41,7 @@ I'll occasionally add to this page, but won't attempt to organize them. These ex
 * [What is the difference between @staticmethod and @classmethod in Python?](https://stackoverflow.com/questions/136097/what-is-the-difference-between-staticmethod-and-classmethod-in-python)
 * [VISUALIZE Python, Java, JavaScript, TypeScript, Ruby, C, and C++](http://pythontutor.com/)
 * [Pragmatic Unicode](https://nedbatchelder.com/text/unipain.html)
+* [Python Files I/O](https://www.tutorialspoint.com/python/python_files_io.htm)
+* [Python File Methods](https://www.tutorialspoint.com/python/file_methods.htm)
+* [Python OS File/Directory Methods](https://www.tutorialspoint.com/python/os_file_methods.htm)
+* [Python - Exceptions Handling](https://www.tutorialspoint.com/python/python_exceptions.htm)
