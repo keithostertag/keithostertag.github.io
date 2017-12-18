@@ -45,3 +45,4 @@ I'll occasionally add to this page, but won't attempt to organize them. These ex
 * [Python File Methods](https://www.tutorialspoint.com/python/file_methods.htm)
 * [Python OS File/Directory Methods](https://www.tutorialspoint.com/python/os_file_methods.htm)
 * [Python - Exceptions Handling](https://www.tutorialspoint.com/python/python_exceptions.htm)
+* [Python's strftime directives](http://strftime.org/)
