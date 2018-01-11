@@ -64,4 +64,4 @@ To do a factory reset of the filesystem you follow a similar procedure as you di
 
 ```
 
-Details about [firmware](http://www.micropython.org/download)
+Details about [firmware](http://www.micropython.org/download) and [Pyboard Firmware Update](https://github.com/micropython/micropython/wiki/Pyboard-Firmware-Update)
