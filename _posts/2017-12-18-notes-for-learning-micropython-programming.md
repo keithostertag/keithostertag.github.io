@@ -15,7 +15,7 @@ Since the board doesn't have an OS, exiting the connection is different than I w
 
 The board REPL does not have an exit() function (hah!) and it sometimes takes a minute for me to figure out when I best should interrupt the running process with ^C or press the RST button on the board. Programmatically I can do a pyb.hard_reset() but not sure yet when that's appropriate.
 
-Downloaded the 'ampy' program from Adafruit- makes running scripts much easier! See https://learn.adafruit.com/micropython-basics-load-files-and-run-code/install-ampy I then created an alias in my .bash_aliases file for it: `alias amp='ampy --port /dev/ttyACM0 run --no-output'`. 
+Downloaded the 'ampy' program from Adafruit- makes running scripts much easier! See https://learn.adafruit.com/micropython-basics-load-files-and-run-code/install-ampy I then created an alias in my .bash_aliases file for it: `alias amp='ampy --port /dev/ttyACM0 run --no-output'`.
 
 The https://forum.micropython.org is very informative!
 
@@ -63,3 +63,5 @@ To do a factory reset of the filesystem you follow a similar procedure as you di
     11. Press and release the RST switch to boot normally.
 
 ```
+
+Details about [firmware](http://www.micropython.org/download)
