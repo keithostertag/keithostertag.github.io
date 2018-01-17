@@ -65,3 +65,7 @@ To do a factory reset of the filesystem you follow a similar procedure as you di
 ```
 
 Details about [firmware](http://www.micropython.org/download) and [Pyboard Firmware Update](https://github.com/micropython/micropython/wiki/Pyboard-Firmware-Update)
+
+* [errno.h - C Error Codes in Linux](http://www.virtsync.com/c-error-codes-include-errno)
+* [recommended workflow for development and testing](https://forum.micropython.org/viewtopic.php?f=16&t=4261&p=24631&hilit=cross+compile#p24631)
+* [Pyboard v1.1 pinout](http://micropython.org/resources/pybv11-pinout.jpg)
