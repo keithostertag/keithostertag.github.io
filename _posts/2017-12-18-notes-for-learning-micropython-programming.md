@@ -93,7 +93,7 @@ Here's an example of using a bytearray (it will allocate a new one each
 packet = bytearray((0xff, 0xff, servo_id, 4, 3, 0x19, 1, 0))
 ```
 
-Details about [firmware](http://www.micropython.org/download) and [Pyboard Firmware Update](https://github.com/micropython/micropython/wiki/Pyboard-Firmware-Update)
+* Details about [firmware](http://www.micropython.org/download) and [Pyboard Firmware Update](https://github.com/micropython/micropython/wiki/Pyboard-Firmware-Update)
 
 * [errno.h - C Error Codes in Linux](http://www.virtsync.com/c-error-codes-include-errno)
 * [recommended workflow for development and testing](https://forum.micropython.org/viewtopic.php?f=16&t=4261&p=24631&hilit=cross+compile#p24631)
