@@ -64,22 +64,31 @@ To do a factory reset of the filesystem you follow a similar procedure as you di
 
 ```
 ```
-The way to connect your board to the external world, and control other components, is through the GPIO pins. Not all pins are available to use, in most cases only pins 0, 2, 4, 5, 12, 13, 14, 15, and 16 can be used.
+The way to connect your board to the external world, and control other components, is through the GPIO pins. Not all pins are available to use, in most cases
+only pins 0, 2, 4, 5, 12, 13, 14, 15, and 16 can be used.
 ```
 ```
 The tool to check memory availability is micropython.mem_info()
 
 (you need to import the module micropython.
-It does not give you details module by module but if you run it before and after each import, it does give you an indication on what's happening.
+It does not give you details module by module but if you run it before
+and after each import, it does give you an indication on what's happening.
 
-gc.mem_free() and gc.mem_alloc() are your friends here, returning no. of bytes as integers. The sum of the two is total heap size.
+gc.mem_free() and gc.mem_alloc() are your friends here, returning no. of
+ bytes as integers. The sum of the two is total heap size.
 ```
 ```
-I would avoid using the chr() function converting integers into text characters, and instead use ustruct to convert integer values into bytes. MicroPython uses UTF8 internally for representing text characters, and not all sequences of bytes are valid.
+I would avoid using the chr() function converting integers into text
+ characters, and instead use ustruct to convert integer values into
+  bytes. MicroPython uses UTF8 internally for representing text
+   characters, and not all sequences of bytes are valid.
 
-* Personally, I tend to use bytearrays. If you want to reduce memory allocations you can combine allocating a bytearray, and then create a memoryview onto it, and pass the memoryview to the write command.
+* Personally, I tend to use bytearrays. If you want to reduce memory
+ allocations you can combine allocating a bytearray, and then create a
+  memoryview onto it, and pass the memoryview to the write command.
 
-Here's an example of using a bytearray (it will allocate a new one each time its called, like using ustruct.pack):
+Here's an example of using a bytearray (it will allocate a new one each
+   time its called, like using ustruct.pack):
 
 packet = bytearray((0xff, 0xff, servo_id, 4, 3, 0x19, 1, 0))
 ```
